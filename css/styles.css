@@ -1,0 +1,24 @@
+:root {
+    --page-color: 
+    
+}
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-items {
+    display: flex;
+    list-style: none;
+}
+
+.nav-items > li {
+    padding: 10px;
+}
+
+.react-logo {
+   width: 60px;
+}
+
