@@ -36,7 +36,7 @@ function Footer () {
     )
 }
 
-function ComponentPage () {
+function App () {
     return (
         <div>
             <Header />
@@ -47,5 +47,5 @@ function ComponentPage () {
 }
 
 root.render(
-    <ComponentPage />
+    <App />
 )
