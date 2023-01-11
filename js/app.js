@@ -18,11 +18,11 @@ function Header () {
 function MainContent() {
     return (
         <div>
-            <h1>I'm excited to learn React!</h1>
+            <h1 className="title">Learning React</h1>
             <ol>
-                <li>It's a fun way to learn JS, after learning Vanilla JS</li>
-                <li>It'll make me more marketable</li>
-                <li>I just love learning new things!</li>
+                <li>Fun To Learn After Vanilla J.S</li>
+                <li>Will Make You More Marketable.</li>
+                <li>Will Make You More $.</li>
             </ol>
         </div>
     )
